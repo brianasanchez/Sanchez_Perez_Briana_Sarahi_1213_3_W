@@ -3,6 +3,8 @@ Actividad en clase
 
 http://127.0.0.1:5500/Sanchez_Perez_Briana_Sarahi_3-W_1213_Practica1.html
 
-![image](https://github.com/user-attachments/assets/94c2d826-d77a-4888-8dca-e5072438319a)
+![image](https://github.com/user-attachments/assets/d504fe35-bd37-4b6a-990b-66a159d7f09e)
 
-![image](https://github.com/user-attachments/assets/778eb91b-6fe3-4824-8c16-8f4847941383)
+![image](https://github.com/user-attachments/assets/9f4a2072-2704-40f1-af67-5069beb5c63e)
+
+![image](https://github.com/user-attachments/assets/b872effa-f182-4a17-9331-5b44ba547b51)
