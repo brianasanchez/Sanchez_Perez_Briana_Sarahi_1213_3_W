@@ -1,8 +1,6 @@
 # Sanchez_Perez_Briana_Sarahi_1213_3_W
 Actividad en clase
 
-http://127.0.0.1:5500/Sanchez_Perez_Briana_Sarahi_3-W_1213_Practica1.html
-
 ![image](https://github.com/user-attachments/assets/d504fe35-bd37-4b6a-990b-66a159d7f09e)
 
 ![image](https://github.com/user-attachments/assets/9f4a2072-2704-40f1-af67-5069beb5c63e)
